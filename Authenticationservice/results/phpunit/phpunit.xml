@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="1" assertions="1" errors="0" failures="1" skipped="0" time="0.009816">
+    <testsuite name="ExampleTest" file="/home/cjp/Desktop/DevOps-CloudViews/Original/Authenticationservice/tests/ExampleTest.php" tests="1" assertions="1" errors="0" failures="1" skipped="0" time="0.009816">
+      <testcase name="testExample" class="ExampleTest" classname="ExampleTest" file="/home/cjp/Desktop/DevOps-CloudViews/Original/Authenticationservice/tests/ExampleTest.php" line="13" assertions="1" time="0.009816">
+        <failure type="PHPUnit\Framework\ExpectationFailedException">ExampleTest::testExample
+Unable to find row in database table [users] that matched attributes [{"username":"jithendra@cloudjournee.com"}].
+Failed asserting that 0 is greater than 0.
+
+/home/cjp/Desktop/DevOps-CloudViews/Original/Authenticationservice/vendor/laravel/lumen-framework/src/Testing/TestCase.php:133
+/home/cjp/Desktop/DevOps-CloudViews/Original/Authenticationservice/tests/ExampleTest.php:21
+</failure>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testsuites>

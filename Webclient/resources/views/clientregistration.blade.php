@@ -172,7 +172,7 @@ License URL: https://www.designmaz.net/licence/
             }
             .error{
                 font-size: 12px;
-               color: #f5f8fa;
+                color: #07ffe1;
             }
         </style>
 

@@ -3,9 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Original/Webclient/.env</file>
-            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Original/Webclient/readme.md</file>
-            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Original/Webclient/.env.example</file>
+            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Execution%20Documents/fobs/Webclient/resources/views/clientlogin.blade.php</file>
+            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Execution%20Documents/fobs/Webclient/resources/views/userhome.blade.php</file>
+            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Execution%20Documents/fobs/Webclient/resources/views/homepage.blade.php</file>
+            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Execution%20Documents/fobs/Webclient/app/Http/Controllers/HomeController.php</file>
+            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Execution%20Documents/fobs/Webclient/database/migrations/2017_07_05_053531_create_sessions_table.php</file>
+            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Execution%20Documents/fobs/Webclient/routes/web.php</file>
+            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Execution%20Documents/fobs/Webclient/.env.example</file>
         </group>
     </open-files>
 </project-private>

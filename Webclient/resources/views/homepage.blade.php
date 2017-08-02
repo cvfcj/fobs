@@ -64,7 +64,7 @@
         <div class="container">
             <div class="header-grids">
                 <div class="logo">
-                    <h1><a  href="index.html"><span>CloudViews-AB</span></a></h1>
+                    <h1><a  href="index.html"><span>CloudViews</span></a></h1>
                 </div>
                 <!--navbar-header-->
                 <div class="header-dropdown">

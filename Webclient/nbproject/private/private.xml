@@ -5,6 +5,7 @@
         <group>
             <file>file:/home/cjp/Desktop/DevOps-CloudViews/Scenario-1/fobs/Webclient/resources/views/homepage.blade.php</file>
             <file>file:/home/cjp/Desktop/DevOps-CloudViews/Scenario-1/fobs/Webclient/app/Console/Kernel.php</file>
+            <file>file:/home/cjp/Desktop/DevOps-CloudViews/Scenario-1/fobs/Webclient/.env.example</file>
             <file>file:/home/cjp/Desktop/DevOps-CloudViews/Scenario-1/fobs/Webclient/readme.md</file>
         </group>
     </open-files>

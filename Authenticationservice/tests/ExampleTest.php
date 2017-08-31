@@ -12,6 +12,7 @@ class ExampleTest extends TestCase
      */
     public function testExample()
     {
+<<<<<<< HEAD
 //        $this->get('/');
 //
 //        $this->assertEquals(
@@ -20,5 +21,12 @@ class ExampleTest extends TestCase
           $this->seeInDatabase('users', [
       'username' => 'jithendra@cloudjournee.com'
                                            ]);
+=======
+        $this->get('/');
+
+        $this->assertEquals(
+            $this->app->version(), $this->response->getContent()
+        );
+>>>>>>> 271045b73ed3c80c0343c05a32ccacbf3e8f512c
     }
 }

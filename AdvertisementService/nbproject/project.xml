@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.php.project</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/php-project/1">
+<<<<<<< HEAD
             <name>lumen</name>
+=======
+            <name>AdvertisementService</name>
+>>>>>>> 271045b73ed3c80c0343c05a32ccacbf3e8f512c
         </data>
     </configuration>
 </project>

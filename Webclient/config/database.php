@@ -46,8 +46,13 @@ return [
             'database' => env('DB_DATABASE', 'forge'),
             'username' => env('DB_USERNAME', 'forge'),
             'password' => env('DB_PASSWORD', ''),
+<<<<<<< HEAD
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
+=======
+            'charset' => 'utf8mb4',
+            'collation' => 'utf8mb4_unicode_ci',
+>>>>>>> 271045b73ed3c80c0343c05a32ccacbf3e8f512c
             'prefix' => '',
             'strict' => true,
             'engine' => null,
